@@ -18,3 +18,5 @@ Bu depo, eğitim programı kapsamında hazırlanan uygulamaları, görevleri ve 
 - [PyMAVLink](12-pymavlink/)
 - [Mission Planner](13-mission-planner/)
 - [Diğer Görevler](diger-gorevler/)
+
+Son eklenen görev: [ATM para çekme akış şeması](02-algoritma/)
