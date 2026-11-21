@@ -1,4 +1,4 @@
-# Algoritma
+# Algoritma görevi
 
 ## ATM'den para çekme
 
